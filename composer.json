@@ -19,7 +19,7 @@
         "ext-json": "*",
         "ext-curl": "*",
         "modstart/modstart": "dev-master",
-        "w7corp/easywechat": "dev-master"
+        "w7corp/easywechat": "5.28.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
