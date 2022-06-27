@@ -1,3 +1,3 @@
 # modstart-laravel9
 
-this is modstart adapt for laravel9
+ModStart 基于 Laravel9 的适配包
