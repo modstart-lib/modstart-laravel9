@@ -6,7 +6,7 @@
         "laravel",
         "admin"
     ],
-    "homepage": "https://github.com/modstart/modstart-laravel9",
+    "homepage": "modstart/modstart-laravel9",
     "license": "Apache 2.0",
     "authors": [
         {
